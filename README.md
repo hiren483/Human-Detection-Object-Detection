@@ -38,5 +38,3 @@ A deep learning computer vision project that detects humans and other objects in
 - **Input:** Images containing humans, vehicles, and other objects  
 - **Output:** Bounding boxes with class labels and confidence scores  
 
-**Example code snippet from notebook:**
-```python
